@@ -1,0 +1,8 @@
+.enable-save{
+    background:rgb(240, 105, 166);
+    cursor: pointer;
+}
+.disabled{
+    pointer-events: none;
+    background: gray;
+  }
